@@ -1,0 +1,42 @@
+body {
+    background-color: #353839;
+    max-width: 38rem;
+    margin: auto;
+    padding: 2rem;
+    text-align: justify;
+}
+h1 {
+    color: inherit;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+}
+p {
+    color: inherit;
+    -webkit-filter: invert(80%);
+    filter: invert(80%);
+}
+h2 {
+    color: inherit;
+    -webkit-filter: invert(80%);
+    filter: invert(80%);
+    font-weight: bold;
+    font-size: medium;
+}
+h3 {
+    color: inherit;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    font-weight: normal;
+    font-size: medium;
+    font-style: italic;
+}
+a {
+    text-decoration: none;
+    color: blue;
+}
+ul.no-bullets {
+    color: inherit;
+    -webkit-filter: invert(100%);
+    filter: invert(100%);
+    list-style-type: none;
+}
