@@ -1,28 +1,34 @@
 body {
     background-color: #353839;
-    max-width: 38rem;
+    max-width: 40rem;
     margin: auto;
     padding: 2rem;
+    line-height: 1.6;
     text-align: justify;
 }
 h1 {
     color: inherit;
+    line-height: 1.2;
     -webkit-filter: invert(100%);
     filter: invert(100%);
 }
 p {
-    color: inherit;
-    -webkit-filter: invert(80%);
-    filter: invert(80%);
+    color: silver;
+    font-size: 16px;
+    line-height: 1.4;
+    #-webkit-filter: invert(80%);
+    #filter: invert(80%);
 }
 h2 {
     color: inherit;
+    line-height: 1;
     -webkit-filter: invert(80%);
     filter: invert(80%);
     font-weight: bold;
     font-size: medium;
 }
 h3 {
+    line-height: 1.4;
     color: inherit;
     -webkit-filter: invert(100%);
     filter: invert(100%);

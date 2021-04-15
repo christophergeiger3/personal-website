@@ -1,22 +1,26 @@
 body {
     background-color: #353839;
-    max-width: 38rem;
+    max-width: 40rem;
+    line-height: 1.6;
     margin: auto;
     padding: 2rem;
     text-align: justify;
 }
 h1 {
     color: inherit;
+    line-height: 1.2;
     -webkit-filter: invert(100%);
     filter: invert(100%);
 }
 p {
     color: inherit;
+    line-height: 1.4;
     -webkit-filter: invert(100%);
     filter: invert(100%);
 }
 h2 {
     color: inherit;
+    line-height: 1;
     -webkit-filter: invert(80%);
     filter: invert(80%);
     font-weight: bold;
@@ -24,6 +28,7 @@ h2 {
 }
 h3 {
     color: inherit;
+    line-height: 1.4;
     -webkit-filter: invert(100%);
     filter: invert(100%);
     font-weight: normal;
