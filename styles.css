@@ -40,6 +40,9 @@ a {
     text-decoration: none;
     color: blue;
 }
+a.invert {
+    color: yellow;
+}
 ul.no-bullets {
     color: inherit;
     -webkit-filter: invert(100%);
